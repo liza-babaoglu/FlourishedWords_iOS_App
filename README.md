@@ -1,5 +1,5 @@
 # FlourishedWords_iOS_App
-My personal app development project: An original iOS app named, "FlourishedWords"
+Personal app development project: An original iOS app named, "FlourishedWords"
 
 Check out the [visual demonstration](https://youtu.be/E5X5VPT92dY) of the app on iPhone8:
 
