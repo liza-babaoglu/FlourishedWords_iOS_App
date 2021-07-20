@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4B3D44B-0F36-4127-AFF2-800F52CD8EEB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10FD3AEA-7AB0-473B-9C74-D0F37FC1032F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../inputName.swift"
+            timestampString = "619580728.073266"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "inputName"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "10FD3AEA-7AB0-473B-9C74-D0F37FC1032F - d009e9fbd1f825d3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlourishedName.inputName.__deallocating_deinit"
+                  moduleName = "FlourishedName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lizababaoglu/Documents/inputName.swift"
+                  timestampString = "619076949.699389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "10FD3AEA-7AB0-473B-9C74-D0F37FC1032F - a973045f2274a6b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlourishedName.inputName.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FlourishedName.inputName"
+                  moduleName = "FlourishedName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lizababaoglu/Documents/inputName.swift"
+                  timestampString = "619076949.706368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "10FD3AEA-7AB0-473B-9C74-D0F37FC1032F - d19479509a607c5e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlourishedName.inputName.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; FlourishedName.inputName"
+                  moduleName = "FlourishedName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lizababaoglu/Documents/inputName.swift"
+                  timestampString = "619076949.709792"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "10FD3AEA-7AB0-473B-9C74-D0F37FC1032F - 804605ee5d909e10"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlourishedName.inputName.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;FlourishedName.inputName&gt;"
+                  moduleName = "FlourishedName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lizababaoglu/Documents/inputName.swift"
+                  timestampString = "619076949.712682"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "10FD3AEA-7AB0-473B-9C74-D0F37FC1032F - 7ac3e3e7c7dd7893"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FlourishedName.inputName.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;FlourishedName.inputName&gt;"
+                  moduleName = "FlourishedName"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lizababaoglu/Documents/inputName.swift"
+                  timestampString = "619076949.715593"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CB43871-4E35-4EA7-B07C-FD143F064619"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../inputName.swift"
+            timestampString = "620175035.889731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "inputting(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
